@@ -1,0 +1,25 @@
+.form-box{
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    background: #fefefe;
+    box-shadow: lightgrey;
+    padding: 15px;
+    padding-top: 30px;
+    width: 40%;
+    min-height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.err{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.no{
+    display: none;
+}

@@ -1,0 +1,26 @@
+.table-container{
+    margin-top: 20px;
+}
+
+.main-cont{
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    background: #fefefe;
+    box-shadow: lightgrey;
+    min-height: 250px;
+    padding-top: 20px;
+}
+
+.popup{
+    width: 40%;
+    min-height: 230px;
+    padding: 27px;
+}
+
+.hide{
+    display: none;
+}
+
+.err{
+    color: red;
+}
